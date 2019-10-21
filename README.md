@@ -1,6 +1,6 @@
 # tictactoe
-Unbeable
+Unbeatable
 Tic-Tac-Toe.
 Uss Minimax 
-Algothm 
-and R. 
+Algorithm 
+and Reinforcement learning. 
