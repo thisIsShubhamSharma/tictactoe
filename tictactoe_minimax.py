@@ -1,14 +1,14 @@
-imprt random
+import random
 
 
-clss TicTacToe:
+class TicTacToe:
     def __init__(self, playerX, playerO):
         self.board = [' '] * 9
         self.playerX, self.playerO = playerX, playerO
         self.playerX_turn = True
 
     def display_board(self):
-        prt ('     |     |     ')
+        print ('     |     |     ')
         print ('  %s  |  %s  |  %s  ' % (self.board[0],
                                         self.board[1],
                                         self.board[2]))
