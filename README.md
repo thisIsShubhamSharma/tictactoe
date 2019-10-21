@@ -1,2 +1,6 @@
 # tictactoe
-Unbeatable Tic-Tac-Toe. Uses Minimax Algorithm and RL 
+Unbeable
+Tic-Tac-Toe.
+Uss Minimax 
+Algothm 
+and R. 
